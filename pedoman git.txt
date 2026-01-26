@@ -1,0 +1,15 @@
+Pedoman Pembuatan Git Control
+
+-instalasi tools
+  Install composer :https://getcomposer.org/
+  Install git : https://git-scm.com/
+
+- intalasi git
+Silakan buat akun diGithub : github.com
+Silahkan buat repository baru : [buat secara public]
+Silahkan buat folder pada htdocs : app-pbo
+Setting folder menjadi git : git init
+Melakukkan remote terhadap repository : git remote add origin [Alamat-repository]
+Menambah file pada list : git add [nama-file] atau git add . [untuk menambahkan semua file dan folder]
+Melakukan commit : git commit -m "first commit“
+Memindah file ke repository : git push -u origin master [git push –u ]
