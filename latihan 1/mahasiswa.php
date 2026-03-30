@@ -19,13 +19,13 @@ class Mahasiswa {
 }
 // Membuat objek dari kelas Mahasiswa
 $mahasiswa1 = new Mahasiswa();
-$mahasiswa1->nama = "Budi";
-$mahasiswa1->nim = "123456789";
+$mahasiswa1->nama = "Albert";
+$mahasiswa1->nim = "T3124006";
 $mahasiswa1->prodi = "Informatika";
 
 $mahasiswa2 = new Mahasiswa();
-$mahasiswa2->nama = "Budi";
-$mahasiswa2->nim = "123456789";
+$mahasiswa2->nama = "Albert";
+$mahasiswa2->nim = "T3124006";
 $mahasiswa2->prodi = "Informatika";
 
 //cetak hasil
